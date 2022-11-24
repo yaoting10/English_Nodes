@@ -18,7 +18,15 @@ Auditory adj. 听觉的
 
 Audiphone n.助听器
 
+audiometer n.听力计，听力测量仪
+
 Audition n.听觉，听
 
 Audio adj.听觉的，声音的
+
+Audio-visual adj.听觉视觉的
+
+audiovisuals n.试听教材
+
+
 
