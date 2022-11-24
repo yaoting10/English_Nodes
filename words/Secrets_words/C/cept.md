@@ -1,4 +1,4 @@
-cept==take 拿，取
+### cept==take 拿，取
 
 except prep. 除...之外，把...除外
 

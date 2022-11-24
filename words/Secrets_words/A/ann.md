@@ -1,21 +1,23 @@
-Anniversary [ˌænɪˈvɜːsər] 周年纪念日
+### ann == year 年
 
-Annual [ˈænjuə] 年度的
+anniversary [ˌænɪˈvɜːsər] 周年纪念日
 
-Annals [ˈæn(ə)lz] 编年史
+annual [ˈænjuə] 年度的
 
-Annalist [ˈænəlɪst] 编年史作者
+annals [ˈæn(ə)lz] 编年史
 
-Annuity [əˈnjuːət] 年金
+annalist [ˈænəlɪst] 编年史作者
 
-Annuitant [əˈnjuːɪtənt] n.领受年金的人
+annuity [əˈnjuːət] 年金
 
-Superannuate [ˌsuːpərˈænjʊˌeɪt] v.过时
+annuitant [əˈnjuːɪtənt] n.领受年金的人
 
-Superannuation n.退休;退休金;废弃;过时
+superannuate [ˌsuːpərˈænjʊˌeɪt] v.过时
 
-Perennial [pəˈreniəl] adj. 全年的;常年的
+superannuation n.退休;退休金;废弃;过时
 
-Perenniality [pəˌrenɪˈælətɪ] n.全年
+perennial [pəˈreniəl] adj. 全年的;常年的
 
-Semiannual [ˌsemiˈænjuəl] adj.一年两次的;半年一次的
+perenniality [pəˌrenɪˈælətɪ] n.全年
+
+semiannual [ˌsemiˈænjuəl] adj.一年两次的;半年一次的

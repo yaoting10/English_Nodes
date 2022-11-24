@@ -1,4 +1,4 @@
-Bell == war 战争
+### Bell == war 战争
 
 rebel v.反抗
 
@@ -10,7 +10,7 @@ bellicose adj.好战的，好斗的
 
 bellicosity n.好战性
 
-bellicism n.好战性，好战倾向
+bellicism [beˈlɪsɪzəm] n.好战性，好战倾向
 
 belligerent  [bəˈlɪdʒərənt] adj. 敌对的，好战的
 

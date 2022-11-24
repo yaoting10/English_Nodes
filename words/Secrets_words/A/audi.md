@@ -1,30 +1,30 @@
-audi == hear 听 (audi 也作audit)
+### audi == hear 听 (audi 也作audit)
 
-Audience n.听众
+audience n.听众
 
-Auditorium n.礼堂
+auditorium n.礼堂
 
-Audible adj.听的见的，可闻的
+audible adj.听的见的，可闻的
 
-Audibility n.可听性，可闻性
+audibility n.可听性，可闻性
 
-Inaudible adj. 听不见的，不能听到的
+inaudible adj. 听不见的，不能听到的
 
-Audit n. 旁听，审计
+audit n. 旁听，审计
 
-Auditor n.旁听生，审计员
+auditor n.旁听生，审计员
 
-Auditory adj. 听觉的
+auditory adj. 听觉的
 
-Audiphone n.助听器
+audiphone n.助听器
 
 audiometer n.听力计，听力测量仪
 
-Audition n.听觉，听
+audition n.听觉，听
 
-Audio adj.听觉的，声音的
+audio adj.听觉的，声音的
 
-Audio-visual adj.听觉视觉的
+audio-visual adj.听觉视觉的
 
 audiovisuals n.试听教材
 

@@ -1,4 +1,4 @@
-ced == go 行走 (ced 也作 ceed, cess)
+### ced == go 行走 (ced 也作 ceed, cess)
 
 precedent n. 先行的事物，前例，先例
 

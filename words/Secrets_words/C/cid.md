@@ -1,4 +1,4 @@
-cid, cis = cut,kill 切，杀
+### cid, cis = cut,kill 切，杀
 
 decide v. 决定，裁决，判决，下决心
 
