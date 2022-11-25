@@ -2,7 +2,7 @@
 
 audience n.听众
 
-auditorium n.礼堂
+auditorium  [ˌɔːdɪˈtɔːriəm] n.礼堂
 
 audible adj.听的见的，可闻的
 

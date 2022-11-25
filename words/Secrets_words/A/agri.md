@@ -1,28 +1,28 @@
 ### agri == field 天地，农田 (agri 也作 agro, agr)
 
-Agriculture [ˈæɡrɪkʌltʃə(r)] n.农业，农学
+agriculture [ˈæɡrɪkʌltʃə(r)] n.农业，农学
 
-Agricutural[ˌæɡrɪˈkʌltʃərəl] adj. 农业的
+agricultural [ˌæɡrɪˈkʌltʃərəl] adj. 农业的
 
-Agricuturist n.农学家
+agriculturist  [ˌæɡrɪˈkʌltʃərɪst] n.农学家
 
-Agricorporation  [ˌæɡriːˌkɔːpəˈreɪʃən] n.农业综合公司
+agricorporation  [ˌæɡriːˌkɔːpəˈreɪʃən] n.农业综合公司
 
-Agrimotor [ˈæɡrɪˌməʊtə(r)]n.农用拖拉机
+agrimotor [ˈæɡrɪˌməʊtə(r)]n.农用拖拉机
 
-Agronomy [əˈɡrɒnəmi] n.农学，农艺学
+agronomy [əˈɡrɒnəmi] n.农学，农艺学
 
-Agronomic [ˌæɡrəˈnɒmɪk] adj.农学的，
+agronomic [ˌæɡrəˈnɒmɪk] adj.农学的，
 
-Agronomist [əˈɡrɒnəmɪst] n.农学家
+agronomist [əˈɡrɒnəmɪst] n.农学家
 
-Agrology [əˈɡrɒlədʒi] n. 农业土壤学
+agrology [əˈɡrɒlədʒi] n. 农业土壤学
 
-Agrobiology [ˌæɡrəʊbaɪˈɒlədʒi] n. 农业生物学
+agrobiology [ˌæɡrəʊbaɪˈɒlədʒi] n. 农业生物学
 
-Agrarian [əˈɡreəriən] adj. 土地的
+agrarian [əˈɡreəriən] adj. 土地的
 
-Agrestic [əˈɡrestɪk] adj.乡间的
+agrestic [əˈɡrestɪk] adj.乡间的
 
 
 
