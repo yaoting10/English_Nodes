@@ -10,7 +10,7 @@ semicircle n.半圆
 
 circular adj.圆形的，环形的
 
-circularity n. 圆形性，圆，迂回
+circularity [ˌsɜːkjəˈlærəti] n. 圆形性，圆，迂回
 
 circulate v. 循环，环流，通行，流通，流传
 
@@ -26,5 +26,6 @@ circuit n. 环形，周线，电路，回路
 
 circuitous adj.迂回的，绕行的
 
-circuity n.转弯抹角，绕圈子
+circuity n.转弯抹角，绕圈子,迂回；迂曲
 
+   
