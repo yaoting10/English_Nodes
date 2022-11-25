@@ -40,3 +40,5 @@ Revoke 	撤销，撤回
 
 Legacy 	遗产
 
+mnemonic [nɪˈmɒnɪk] 助记词
+
