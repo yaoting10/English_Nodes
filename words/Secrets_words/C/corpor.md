@@ -1,4 +1,4 @@
-corpor == body 体 (corpor 也作corp )
+### corpor == body 体 (corpor 也作corp )
 
 corporation n. 团体，社团，公司
 
