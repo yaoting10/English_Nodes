@@ -6,7 +6,7 @@ corporator n.社团成员或公司成员
 
 corporate adj. 社团的，团体的
 
-incorporate v. 合并，结合，组成
+incorporate v. 合并，结合，组成 [in- 做，作成]
 
 incorporation n. 团体，公司，社团
 
@@ -28,4 +28,4 @@ corps n.军团，军，对，团
 
 corpse n.尸体，死体
 
-corpulent adj. 肥胖的 lent = -lent 多...的
+corpulent  [ulent = -lent 多...的] adj. 肥胖的

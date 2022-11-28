@@ -1,6 +1,6 @@
 ### cept==take 拿，取
 
-except prep. 除...之外，把...除外
+except prep. 除...之外，把...除外 [ex-外，出]
 
 exception n.意外，例外
 
@@ -8,7 +8,7 @@ exceptional adj.例外的，异常的，特殊的
 
 exceptive adj. 作为例外的，特殊的
 
-accept v.接受，承认
+accept v.接受，承认 [ac- 加强意义]
 
 acceptance n.接受，承认
 
@@ -20,4 +20,4 @@ interception n. 拦截，截击，截取
 
 intercepter n. 拦截机
 
-incept v. 接受(入会)，摄入，摄取
+incept v. 接受(入会)，摄入，摄取 [in- 入]
