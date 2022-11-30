@@ -32,3 +32,19 @@ superfluous  [suːˈpɜːfluəs] adj. [super- 超过->过多， -ous ...的]过�
 
 superfluity  [ˌsuːpəˈfluːəti] n.[-ity 名词后缀] 过剩，多余，奢侈
 
+superfluid n. [super-超 fluid 液体] 超流体
+
+interfluent adj.[inter- 相互，flu流，-ent ...的] 交流的 [inter中间] 流在中间的
+
+flux [flux = flu 流] 流，流出，流动，变动
+
+fluxion n. [-ion 名词后缀] 流动，流出物；变动
+
+fluxional adj.[-al ...的] 流动的，变动的
+
+afflux n.[af-表示 to] 流向，流入
+
+reflux n.[re- 回，反] 回流，倒流
+
+influx n.[in-入] 流入
+
