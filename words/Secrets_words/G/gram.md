@@ -2,7 +2,7 @@
 
 grammar n.[gram 写，文字，-ar 名词后缀；关于文字的法则] 语法，文法
 
-grammarian n.[-ian 名词后缀，表示人] 法学家，文法家
+grammarian [ɡrəˈmeəriən] n.[-ian 名词后缀，表示人] 法学家，文法家
 
 grammatical adj.[-atical 形容词后缀 ...的] 语法的，属于语法上的
 
@@ -14,7 +14,7 @@ program n.[pro- 在前面，gram 写，书，表，单，"写在前面的说明�
 
 cryptogram n.[crypto 隐，秘密，gram 文字]密码，密码文，暗记
 
-parallelogram n.[parallel 平行的，gram 写->书] 平行四边形
+parallelogram [ˌpærəˈleləɡræm] n.[parallel 平行的，gram 写->书] 平行四边形
 
 gram n.[gram 写->刻写] 克（国际重量单位）
 
@@ -26,7 +26,7 @@ phonogram n.[phon 声音 ] 音标文字，表音符号，唱片，录音片
 
 hologram n.[holo 全] 全息图
 
-seismogram n.[seismo 地址] 地震图
+seismogram [ˈsaɪzməɡræm] n.[seismo 地址] 地震图
 
 electrocardio-gram n.[electro 电，cardi 心 gram 图] 心电图
 

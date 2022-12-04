@@ -10,7 +10,7 @@ influence n.[in-入，flu 流，-ence 名词后缀,流入，波及，对...产�
 
 influential adj.[-ial ...的] 有影响的，施以影响的
 
-uninfluential adj.[un- 不，无] 不产生影响的，没有影响的
+uninfluential [ˌʌnˌɪnfluˈenʃəl] adj.[un- 不，无] 不产生影响的，没有影响的
 
 influenza n. [影响-> 感染] 流行性感冒
 
