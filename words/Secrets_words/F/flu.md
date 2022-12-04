@@ -2,6 +2,8 @@
 
 fluent adj.[flu 流，-ent 形容词后缀 ...的] 流利的，流动的，流畅的
 
+fluently adv.流利地
+
 fluency n.[-ency 名词后缀] 流利，流畅
 
 influence n.[in-入，flu 流，-ence 名词后缀,流入，波及，对...产生影响] 影响，感动，势力 【转为动词】感化，影响，对...有作用

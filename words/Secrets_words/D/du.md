@@ -2,7 +2,7 @@
 
 dual adj. 二重的，双的，二元的。
 
-dualism n.双重性，二元性，二元论
+dualism  [ˈdjuːəlɪzəm] n.双重性，二元性，二元论
 
 dualist n.二元论者
 

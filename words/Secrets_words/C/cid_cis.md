@@ -14,13 +14,13 @@ decisive adj. 决定性的
 
 indecisive adj. 非决定性的，不决断的
 
-concise adj. 简明的，简洁的，简要的 [con- 表示加强意义, “切除”不必要的部分，删除冗言赘语]
+concise adj. [con- 表示加强意义, “切除”不必要的部分，删除冗言赘语] 简明的，简洁的，简要的 
 
-precise adj. 明确的，准确的，精确的 [pre- 先，前，“预先切除不清楚的部分”]
+precise adj. [pre- 先，前，“预先切除不清楚的部分”] 明确的，准确的，精确的 
 
 precision n.精确性，精密度
 
-incise v. 切开，雕刻 [in- 入]
+incise v.  [in- 入] 切开，雕刻
 
 incision n. 切开，切口，雕刻
 

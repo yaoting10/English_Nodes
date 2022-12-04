@@ -1,12 +1,12 @@
 ### duc, duct = lead 引导
 
-educate v.教育[e-出，duc 引导，-ate 动词后缀:"引导出来"]
+educate  [ˈedʒukeɪt] v.教育[e-出，duc 引导，-ate 动词后缀:"引导出来"]
 
 education n.教育
 
 educable adj.可教育的
 
-introduce v.引进，介绍[intro-如，duct引]
+introduce [intro-入，duct引]v.引进，介绍
 
 introduction n.引进，介绍
 
@@ -30,13 +30,13 @@ productive adj.出产的，生产性的
 
 reproduce v.再生产，再造，复制
 
-dbduct v.诱拐，劫持 [ab- 离，去]
+abduct v.诱拐，劫持 [ab- 离，去]
 
 abduction n. 诱拐，劫持
 
 abductor n.诱拐者，拐子
 
-seduce v. 诱惑，诱使...堕落，勾引 [se-离，去]
+seduce v.  [se-离，去]诱惑，诱使...堕落，勾引
 
 seducer n.引诱者，勾引者
 

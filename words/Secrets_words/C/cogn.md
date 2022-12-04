@@ -18,7 +18,7 @@ incognizant [in- 不] adj.没认识到的
 
 recognize [re-加强意义] v.认识，认出，认知
 
-recognizable adj.可认识的，可认出的
+recognizable  [ˈrekəɡnaɪzəbl] adj.可认识的，可认出的
 
 irrecognizable adj.不能认识的，不能认出的
 
