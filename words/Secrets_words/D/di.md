@@ -10,7 +10,7 @@ diarial [-ial ...的]adj. 日记体的，日记的
 
 dial [-al 名词后缀，表示物]n.日晷，电话机拨号盘
 
-meridian [ meri 中间，-an 名词后缀]n./adj. 日中，正午，子午线，日中的，正午的 
+meridian [məˈrɪdiən] n./adj. [ meri 中间，-an 名词后缀] 日中，正午，子午线，日中的，正午的 
 
 antemeridian [ante- 前] adj. 日中之前的，午前的
 

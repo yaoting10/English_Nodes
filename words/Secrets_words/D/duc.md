@@ -12,15 +12,15 @@ introduction n.引进，介绍
 
 introductory adj. 介绍的，导言的
 
-conduct n./v.引导，指导，惯例，经营[con- 加强意义]
+conduct n./v. [con- 加强意义] 引导，指导，惯例，经营
 
 conductor n.指导者，管理者，指挥，售票员，导体
 
-semiconductor n.半导体 [semi-半]
+semiconductor n. [semi-半] 半导体 
 
-misconduct v.办错，对...处理不当 [mis- 误，错]
+misconduct v. [mis- 误，错] 办错，对...处理不当
 
-produce v.生产，出产，制造，产生，引起 [pro-向前]
+produce v. [pro-向前] 生产，出产，制造，产生，引起
 
 product n. 产品，产物，产量，出产
 
@@ -30,7 +30,7 @@ productive adj.出产的，生产性的
 
 reproduce v.再生产，再造，复制
 
-abduct v.诱拐，劫持 [ab- 离，去]
+abduct v. [ab- 离，去] 诱拐，劫持
 
 abduction n. 诱拐，劫持
 
