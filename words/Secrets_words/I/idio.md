@@ -6,7 +6,9 @@ idiomatic [-atic 形容词后缀] adj. 惯用语的，成语的
 
 idiot [idio 特殊的；"特殊的人" ->异于正常人的] n.傻子，痴人，白痴
 
-idiotic [-ic ...的] adj.白痴的
+idiotic [ˌɪdiˈɒtɪk] adj. [-ic ...的] 白痴的
+
+idiocy [-cy 名词后缀] n.白痴，极端愚蠢
 
 idiograph [idio 个人的，专有的，graph 写，文字，图形] n.个人的签名，商标
 
