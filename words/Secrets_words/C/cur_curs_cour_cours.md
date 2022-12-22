@@ -20,7 +20,7 @@ excursionist n.远足者，旅游者
 
 excursive adj. 离题的，扯开的
 
-excursus [-us 名词后缀] n.离题语，附注，附记
+excursus [ekˈskɜːsəs] n.[-us 名词后缀] 离题语，附注，附记
 
 course n.课程，行程，进程，路程，道路
 
@@ -32,7 +32,7 @@ courser n.跑者，追猎者，猎犬，骏马
 
 courier n. 送急件的人，信使
 
-succour [suc- 后] n. 救助，救援，援助
+succour [ˈsʌkə(r)] n. [suc- 后] 救助，救援，援助
 
 cursory [curs 跑，急行 -ory ...的] adj.仓猝的，草率的，粗略的
 
