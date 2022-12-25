@@ -1,6 +1,6 @@
 ### cur, curs, cour, cours  = run 跑
 
-ocour v. 出现，发生
+occur v. 出现，发生
 
 occurrence n. 出现，发生，发生的事
 

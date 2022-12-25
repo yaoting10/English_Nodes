@@ -42,7 +42,7 @@ ineligible [in- 不，无] 无被选资格的，不合格的
 
 neglect v.[neg- 不，未，lect选，收；“未选收”，“未收取”] 疏忽，漏做，忽略，忽视
 
-neglectful adj.[-ful ...的] 疏忽的
+neglectful  [nɪˈɡlektfl] adj.[-ful ...的] 疏忽的
 
 negligence n.[neglig=neglect(lig=lect) 疏忽，-ence 名词后缀] 疏忽，忽视，忽略
 
