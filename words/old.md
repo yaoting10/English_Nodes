@@ -42,3 +42,4 @@ Legacy 	遗产
 
 mnemonic [nɪˈmɒnɪk] 助记词
 
+goverance. 治理
