@@ -43,3 +43,9 @@ Legacy 	遗产
 mnemonic [nɪˈmɒnɪk] 助记词
 
 goverance. 治理
+
+conduit 管道
+
+advantage 优势
+
+Vertex 顶点

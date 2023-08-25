@@ -35,7 +35,7 @@ Girls **are playing** games.
 - in,   on,  at   (三维，二维，一维/体，面，点)
 - from,   to
 - into,     onto    动态的
-- with,     without     
+- with,     without
 - of.      属性   A of B ,  B 的A （属性）
 - by   1, 通过...方式. 2, 被动 + by: 被...做的. 3, by + 名词: 在旁边.  4, +时间: 截止 5, 差额
 - for  1, for + 时间: 持续了一段时间.  2, for + 为了...

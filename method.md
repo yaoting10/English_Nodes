@@ -31,3 +31,12 @@
 语法: 熟练
 
 侧重点：听力/口语，阅读/写作、翻译
+
+
+
+
+
+杂资料：
+
+链接：https://pan.baidu.com/s/1sGtm0jlE6BsPKyyM1G0r9A 
+提取码：1zay
