@@ -49,3 +49,7 @@ conduit 管道
 advantage 优势
 
 Vertex 顶点
+
+Against 对立
+
+Routine 例程
