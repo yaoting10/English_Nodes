@@ -1,6 +1,6 @@
 【导语】有关问路的英语对话你知道哪些呢?以下是新东方网整理的几个常见问路对话，快来学习一下吧!
 
-1."Excuse me, do you knowswheresthe Shuang'An Market is?"
+1."Excuse me, do you know where the Shuang'An Market is?"
 
 Answer: "Yes, as a matter of fact I do.Do you need directions? "
 
