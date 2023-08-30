@@ -54,6 +54,6 @@ Against 对立
 
 Routine 例程
 
-Introversion 内向
+**I**ntroversion 内向
 
 **E**xtraversion 外向
