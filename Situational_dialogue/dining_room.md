@@ -206,3 +206,37 @@ P: Thank you. (to be continued)
 例：Wait here. I'll be back in a minute.
 
 (在这儿等我。我马上就回来。)
+
+
+
+| 用句子                                                       | 翻譯                                |
+| :----------------------------------------------------------- | :---------------------------------- |
+| May I order,please？                                         | 我可以點餐了嗎？                    |
+| May I have a menu,please？                                   | 請給我菜單。                        |
+| Would you like something to drink before dinner？            | 用晚餐前想喝些什麽嗎？              |
+| What kind of drinks do you have for an aperitif？            | 餐廳有些什麽餐前酒？                |
+| May I see the wine list？                                    | 可否讓我看看酒單？                  |
+| May I order a glass of wine？                                | 我可以點杯酒嗎？                    |
+| What kind of wine do you have？                              | 餐廳有哪幾類酒？                    |
+| I’d like to have some local wine.                            | 我想點當地出産的酒。                |
+| I’d like to have Frence red wine.                            | 我想要喝法國紅酒。                  |
+| Could you recommend some good wine？                         | 是否可建議一些不錯的酒？            |
+| What is the specialty of the house？                         | 餐廳最特別的菜式是什麼？            |
+| Do you have today’s special？                                | 餐廳有今日特餐嗎？                  |
+| Can I have the same dish as that？                           | 我可以點與那份相同的餐嗎？          |
+| I’d like appetizers and meat(fish) dish.                     | 我想要一份開胃菜與排餐(魚餐)。      |
+| I’m on a diet.                                               | 我正在節食中。                      |
+| I have to avoid food containing fat(salt/suger).             | 我必須避免含油脂(鹽份/糖份)的食物。 |
+| Do you have vegetarian dishs？                               | 餐廳是否有供應素食餐？              |
+| How do you like your steak？                                 | 你的牛排要如何烹調？                |
+| Well done (medium/rare),please.                              | 全熟(五分熟/全生)。                 |
+| Do you have a reservation?                                   | 請問您有預定嗎？                    |
+| Do you have a table for two?                                 | 請問有兩個人的餐位嗎？              |
+| We’d like a window table,please.                             | 我們想要一個靠窗的桌子。            |
+| The house is full now.                                       | 對不起，餐廳現在客滿了。            |
+| There are no vacancies left now.Would you mind waiting for a minute? | 我們現在沒有餐位，您介意等一下嗎？  |
+| Sorry for having kept you waiting.                           | 抱歉讓您久等了。                    |
+| What do you prefer for the starter?                          | 您第一道菜想要什麽？                |
+| What will you have for dessert?                              | 您想要什麽點心呢？                  |
+| What is the specialty of the house?                          | 餐廳的特色菜是什麽？                |
+| I’d like to have some local food.                            | 我想嘗試一下當地的美食。            |

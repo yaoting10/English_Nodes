@@ -6,7 +6,7 @@ B: All right, sir. When are you supposed to be there?
 
 A: I'd like to go around the city, if you don't mind.
 
-请到曼哈顿广常
+请到曼哈顿广场
 
 好的，先生。要求几点到。
 

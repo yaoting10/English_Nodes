@@ -54,6 +54,8 @@ Against 对立
 
 Routine 例程
 
+Delicious 美味的
+
 **I**ntroversion 内向
 
 **E**xtraversion 外向
