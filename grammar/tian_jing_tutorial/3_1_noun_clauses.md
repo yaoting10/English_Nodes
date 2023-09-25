@@ -1,4 +1,4 @@
-## 复合句：
+## 复合句：重点！！
 
 ### 1,名词性从句
 
@@ -107,6 +107,8 @@ Are you positive(确信) <u>(that) you've never seen that man before</u>.
 我的担心是人们不关心其他人
 
 My concern(担心) that the people don't care about others.
+
+问题是人们是否会买它
 
 The question remains(剩余) *whether people will buy it.* 
 
